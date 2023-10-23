@@ -17,8 +17,12 @@
 ### Github Statistics 📈
 
 <a href="https://github.com/tanmaycod">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=tanmaycod&theme=buefy&show_icons=true" />
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaycod&theme=buefy&layout=compact" />
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaycod&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="tanmaycod" 
+    bg_color=#808080/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmaycod&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="tanmaycod" />
 </a>
 
 <br/>
